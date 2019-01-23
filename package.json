@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-basics",
+  "version": "1.0.0",
+  "description": "My wonderful Nuxt.js project",
+  "author": "Kenneth Solberg",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.3.4",
+    "umbraco-headless": "^0.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
